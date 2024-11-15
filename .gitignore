@@ -1,0 +1,25 @@
+# 忽略node_modules目录，避免推送依赖包
+node_modules
+
+# 忽略构建输出目录，部署时会重新生成该目录下内容
+.vitepress/dist
+
+# 忽略VitePress或相关工具产生的缓存文件（如果有）
+.cache
+
+# 忽略本地开发环境配置文件（如包含敏感信息或仅用于本地的环境变量等）
+.env.local
+
+# 忽略编辑器相关的临时文件和目录
+.DS_Store
+*.log
+*.swp
+*.swo
+
+# 忽略npm/yarn等包管理工具产生的调试日志文件（如果有）
+npm-debug.log
+yarn-error.log
+
+# 忽略测试相关的临时文件（如果有）
+coverage
+.nyc_output
