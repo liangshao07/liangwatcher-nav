@@ -42,7 +42,8 @@ jobs:
           node-version: 20
           cache: npm # 或 pnpm / yarn
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        # uses: actions/configure-pages@v4
+        run: echo "PATH=$PATH:$(pwd)/node_modules/.bin" >> $GITHUB_ENV
       - name: Install dependencies
         run: npm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
