@@ -85,7 +85,6 @@
 | ecnu-PGCourseShare            | https://github.com/tianyilt/ecnu-PGCourseShare               | 华东师范大学研究生课程攻略共享计划                           |
 | REKCARC-TSC-UHI               | https://github.com/PKUanonym/REKCARC-TSC-UHT                 | 清华大学计算机系课程攻略                                     |
 | seu-master                    | https://github.com/oneman233/seu-master                      | 东南大学研究生课程资料分享                                   |
-| 南方科技大学飞跃手册          | https://sustech-application.com/#/grad-application/computer-science-and-engineering/README?id=%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%a7%91%e5%ad%a6%e4%b8%8e%e6%8a%80%e6%9c%af | 南方科技大学经验分享网。                                     |
 | 田间小站                      | https://www.tjxz.cc/                                         | 田间小站，英文原著书下载。                                   |
 | magazinelib                   | https://magazinelib.com/                                     | Download PDF magazines，外刊杂志下载。                       |
 | PDF Magazines Download        | https://pdf-magazines-download.com/                          | PDF Magazines Download，外刊杂志下载                         |
